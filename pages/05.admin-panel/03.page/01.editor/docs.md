@@ -26,7 +26,7 @@ Tabs that appear in the **Page Editor** are not universal. There are a default s
 
 !! The tabs and options represented in this documentation are by default. Theme developers have the ability to add their own options to these tabs, or even to do away with these tabs and replace them with something entirely different. We are documenting a common-case scenario based on the Antimatter theme to serve as an example.
 
-In this page, we will go over the features and functionality found in the **Content** tab of the **Page Editor**.
+In this page, we will go over the features and functionality found in the **Content** tab of the **Page Editor** .
 
 ### Controls
 
